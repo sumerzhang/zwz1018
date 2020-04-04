@@ -1093,7 +1093,7 @@ esac
 clear
 while :; do
 	echo
-	echo "........... V2Ray 一键安装脚本 &逍遥观世界 & .........."
+	echo "........... V2Ray 一键安装脚本 &逍遥观世界 & 引用233脚本.........."
 	echo
 	echo "/"
 	echo
